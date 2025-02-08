@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background: oklch(0.21 0.034 264.665);
+    min-height: 100vh;
+  }
+}
